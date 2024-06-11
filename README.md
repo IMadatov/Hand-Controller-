@@ -1,4 +1,4 @@
-# For window Hand Controller.
+# For windows Hand Controller.
 ## Right hand
 > mouse [left click, left doubleclick, scrolling, mouse point]
 ## Left hand
